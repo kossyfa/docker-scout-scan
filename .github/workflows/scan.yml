@@ -8,7 +8,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'amazonlinux:latest'
+          default: 'redis:7.4.8-bookworm'
 
 # env:
 #   REGISTRY: ghcr.io
