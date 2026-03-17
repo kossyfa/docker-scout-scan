@@ -1,0 +1,1 @@
+https://github.com/kossyfa/docker-scout-scan/actions/runs/23210286772
